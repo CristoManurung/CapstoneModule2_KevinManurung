@@ -21,6 +21,7 @@ Perusahaan ingin mengetahui **Vendor penyedia layananmana yang kinerja dan perfo
     Data
 ![image](https://github.com/CristoManurung/CapstoneModule2_KevinManurung/assets/150712167/443e4d60-bd28-4c25-88ad-45e44f4d8c24)
 
+
 ![image](https://github.com/CristoManurung/CapstoneModule2_KevinManurung/assets/150712167/c3e9be7c-b905-466d-9b18-6d43e7d4047e)
 
 
