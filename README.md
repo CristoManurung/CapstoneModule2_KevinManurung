@@ -19,8 +19,11 @@ Perusahaan ingin mengetahui **Vendor penyedia layananmana yang kinerja dan perfo
     4. Trip_distance
 
     Data
-![image.png](attachment:image.png)
-![image.png](attachment:image.png)
+![image](https://github.com/CristoManurung/CapstoneModule2_KevinManurung/assets/150712167/443e4d60-bd28-4c25-88ad-45e44f4d8c24)
+
+![image](https://github.com/CristoManurung/CapstoneModule2_KevinManurung/assets/150712167/c3e9be7c-b905-466d-9b18-6d43e7d4047e)
+
+
 
 ## Data Understanding and Cleaning
 Sebelum kita mulai menganalisis data, mari kita kenali dataset kita lebih jauh dalam tahap Pemahaman Data. Langkah ini membantu kita mengidentifikasi anomali dalam dataset yang perlu ditangani pada tahap Pembersihan Data. Setiap tindakan pembersihan data akan disertai dengan penjelasan mengenai langkah yang diambil, baik dari sudut pandang pengetahuan domain maupun statistik.
